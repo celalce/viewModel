@@ -1,9 +1,9 @@
-# ViewModel Practice App – GameCA Demo
+# ViewModel Practice App – Demo
 
 This is a **simple Android Compose app** demonstrating the use of **Jetpack ViewModel** with **state management**, **Compose UI**, and **interactive components**.
 
 > **Package:** `com.celalalbayrak.viewmodelcalismasi`  
-> **Developed by:** GameCA  
+> **Developed by:** Celalce  
 > **Purpose:** Learning & showcasing ViewModel + Compose architecture
 
 ---
@@ -90,7 +90,7 @@ Learning Goals Achieved
 
 About Celalce
 
-GameCA brings joy and excitement to every player with fun, immersive, and unforgettable gaming experiences.
+Celalce brings joy and excitement to every player with fun, immersive, and unforgettable gaming experiences.
 
 
 Happy coding!
